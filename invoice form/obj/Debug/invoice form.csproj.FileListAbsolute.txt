@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\c#\New folder\invoice form\invoice form\obj\Debug\invoice form.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#\New folder\invoice form\invoice form\obj\Debug\invoice_form.Form1.resources
+C:\Users\user\Desktop\c#\New folder\invoice form\invoice form\obj\Debug\invoice_form.Properties.Resources.resources
+C:\Users\user\Desktop\c#\New folder\invoice form\invoice form\obj\Debug\invoice form.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c#\New folder\invoice form\invoice form\obj\Debug\invoice form.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\New folder\invoice form\invoice form\bin\Debug\invoice form.exe.config
+C:\Users\user\Desktop\c#\New folder\invoice form\invoice form\bin\Debug\invoice form.exe
+C:\Users\user\Desktop\c#\New folder\invoice form\invoice form\bin\Debug\invoice form.pdb
+C:\Users\user\Desktop\c#\New folder\invoice form\invoice form\obj\Debug\invoice form.exe
+C:\Users\user\Desktop\c#\New folder\invoice form\invoice form\obj\Debug\invoice form.pdb
